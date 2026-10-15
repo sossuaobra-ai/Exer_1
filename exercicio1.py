@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # 1. Título principal com ícone amigável
-st.title("🧮 Minha Calculadora Interativa")
+st.title("🧮 Calculadora Interativa")
 st.write("Bem-vindo ao seu aplicativo web em Python com Streamlit!")
 
 # Criando colunas para organizar a interface de forma limpa
